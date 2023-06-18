@@ -1,4 +1,4 @@
-#2k24placement
+#2k24placement (https://github.com/lipsalee/2k24placement)
 
 The following folder structure is:
 
