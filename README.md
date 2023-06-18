@@ -1,6 +1,6 @@
-#2k24placement (https://github.com/lipsalee/2k24placement)
+#2k24placement
 
-The following folder structure is:
+#The following folder structure is:
 
 -The "html" folder contains all the html files except index.html (index.html  file is outside of all the folder)
 
