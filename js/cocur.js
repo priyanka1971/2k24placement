@@ -67,7 +67,7 @@ const postmethods =()=>{
        postcontainer.appendChild(postelement);
      })
 }
-postmethods
+postmethods()
 window.addEventListener('scroll',reveal);
 function reveal(){
    var reveals=document.querySelectorAll('.reveal');
